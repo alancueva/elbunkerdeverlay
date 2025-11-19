@@ -6,7 +6,7 @@ import { FC, SVGProps, useState } from "react";
 
 const navLinks = [
     { name: 'INICIO', href: '/' },
-    { name: 'MENU', href: '/page/menu' },
+    { name: 'MENÚ', href: '/page/menu' },
     { name: 'NOSOTROS', href: '/page/nosotros' },
     { name: 'CONTACTO', href: '/page/contactos' }
 ];

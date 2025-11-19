@@ -5,7 +5,7 @@ export default function Menu() {
 
     return (
         <>
-            <SeccionCabecera title="Menu"
+            <SeccionCabecera title="Menú"
                 overlay={true} 
                 backgroundImage="/ceviche.png" 
                 overlayOpacity="bg-opacity-20" />

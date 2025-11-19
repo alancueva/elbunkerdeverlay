@@ -9,7 +9,7 @@ export default function Footer() {
     // Define los enlaces del footer, replicando el nav
     const footerLinks = [
         { name: 'INICIO', href: '/' },
-        { name: 'MENU', href: '/page/menu' },
+        { name: 'MENÚ', href: '/page/menu' },
         { name: 'NOSOTROS', href: '/page/nosotros' },
         { name: 'CONTACTO', href: '/page/contactos' },
     ];
